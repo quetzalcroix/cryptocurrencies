@@ -1787,9 +1787,9 @@
         "categories":  [],
         "active": true,
         "platform": {
-            "name": "",
-            "address": "",
-            "type": ""
+            "name": "binanceSmartChain",
+            "address": "0xab050c2304ff31e8a1202b463195a6ef680daaee",
+            "type": "BEP20"
         },
         "description": "### Project Description\n\nDCCCoin Gaming Project Token.",
         "links": {
