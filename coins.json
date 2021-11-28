@@ -1782,6 +1782,29 @@
           "funds": ["polychain_capital", "1confirmation"]
       },
       {
+        "code": "DCC",
+        "name": "DCCCoin",
+        "categories":  [],
+        "active": true,
+        "platform": {
+            "name": "",
+            "address": "",
+            "type": ""
+        },
+        "description": "### Project Description\n\nDCCCoin Gaming Project Token.",
+        "links": {
+            "website": "https://dcccoin.io/",
+            "whitepaper": "",
+            "guide": "",
+            "twitter": "",
+            "reddit": "",
+            "telegram": ""
+        },
+        "rating": "",
+        "id": "bep20|0xab050c2304ff31e8a1202b463195a6ef680daaee",
+        "funds": []
+    },
+      {
           "code": "DDIM",
           "name": "DuckDaoDime",
           "categories": ["fundraising"],
