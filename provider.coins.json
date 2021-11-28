@@ -10521,6 +10521,12 @@
             "external_id": { "coingecko": "darkbundles", "cryptocompare": "DBUND" }
         },
         {
+            "id": "bep20|0xab050c2304ff31e8a1202b463195a6ef680daaee",
+            "code": "dcc",
+            "name": "DCCCoin",
+            "external_id": { "coingecko": "", "cryptocompare": "" }
+        },
+        {
             "id": "unsupported|dark-energy-crystals",
             "code": "dec",
             "name": "Dark Energy Crystals",
